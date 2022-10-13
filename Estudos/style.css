@@ -1,0 +1,23 @@
+.body{
+    display: flex;
+    width: 85%;
+    height: 100%;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    border-style: dashed;
+    margin: 15px 0 15px 0;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    border-style: dashed;
+    margin: 15px 0 15px 0;
+}
+.foter{
+    display: flex;
+    justify-content: center;
+    border-style: dashed;
+    margin: 15px 0 15px 0;
+}
